@@ -1,0 +1,71 @@
+[
+    {
+        "campionati": [
+            {
+                "nome": "Serie A",
+                "squadre": [
+                    {
+                        "nome": "Milan"
+                    },
+                    {
+                        "nome": "Atalanta"
+                    },
+                    {
+                        "nome": "Bologna"
+                    },
+                    {
+                        "nome": "Cremonese"
+                    },
+                    {
+                        "nome": "Empoli"
+                    },
+                    {
+                        "nome": "Fiorentina"
+                    },
+                    {
+                        "nome": "Hellas Verona"
+                    },
+                    {
+                        "nome": "Inter"
+                    },
+                    {
+                        "nome": "Juventus"
+                    },
+                    {
+                        "nome": "Lazio"
+                    },
+                    {
+                        "nome": "Lecce"
+                    },
+                    {
+                        "nome": "Monza"
+                    },
+                    {
+                        "nome": "Roma"
+                    },
+                    {
+                        "nome": "Napoli"
+                    },
+                    {
+                        "nome": "Salernitana"
+                    },
+                    {
+                        "nome": "Sampdoria"
+                    },
+                    {
+                        "nome": "Sassuolo"
+                    },
+                    {
+                        "nome": "Spezia"
+                    },
+                    {
+                        "nome": "Torino"
+                    },
+                    {
+                        "nome": "Udinese"
+                    }
+                ]
+            }
+        ]
+    }
+]
