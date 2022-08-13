@@ -8,31 +8,52 @@
                         "nome": "Milan"
                     },
                     {
-                        "nome": "Atalanta"
-                    },
-                    {
-                        "nome": "Bologna"
-                    },
-                    {
-                        "nome": "Cremonese"
-                    },
-                    {
-                        "nome": "Empoli"
-                    },
-                    {
-                        "nome": "Fiorentina"
-                    },
-                    {
-                        "nome": "Hellas Verona"
-                    },
-                    {
                         "nome": "Inter"
                     },
                     {
                         "nome": "Juventus"
                     },
                     {
+                        "nome": "Napoli"
+                    },
+                    {
+                        "nome": "Roma"
+                    },
+                    {
                         "nome": "Lazio"
+                    },
+                    {
+                        "nome": "Atalanta"
+                    },
+                    {
+                        "nome": "Fiorentina"
+                    },
+                    {
+                        "nome": "Sassuolo"
+                    },
+                    {
+                        "nome": "Hellas Verona"
+                    },
+                    {
+                        "nome": "Torino"
+                    },
+                    {
+                        "nome": "Bologna"
+                    },
+                    {
+                        "nome": "Empoli"
+                    },
+                    {
+                        "nome": "Udinese"
+                    },
+                    {
+                        "nome": "Sampdoria"
+                    },
+                    {
+                        "nome": "Salernitana"
+                    },
+                    {
+                        "nome": "Spezia"
                     },
                     {
                         "nome": "Lecce"
@@ -41,28 +62,7 @@
                         "nome": "Monza"
                     },
                     {
-                        "nome": "Roma"
-                    },
-                    {
-                        "nome": "Napoli"
-                    },
-                    {
-                        "nome": "Salernitana"
-                    },
-                    {
-                        "nome": "Sampdoria"
-                    },
-                    {
-                        "nome": "Sassuolo"
-                    },
-                    {
-                        "nome": "Spezia"
-                    },
-                    {
-                        "nome": "Torino"
-                    },
-                    {
-                        "nome": "Udinese"
+                        "nome": "Cremonese"
                     }
                 ]
             },
@@ -70,64 +70,64 @@
                 "nome": "Premier League",
                 "squadre": [
                     {
-                        "nome": "UNITED"
+                        "nome": "Man City"
                     },
                     {
-                        "nome": "Atalanta"
+                        "nome": "Liverpool"
                     },
                     {
-                        "nome": "Bologna"
+                        "nome": "Chelsea"
                     },
                     {
-                        "nome": "Cremonese"
+                        "nome": "Tottenham"
                     },
                     {
-                        "nome": "Empoli"
+                        "nome": "Arsenal"
                     },
                     {
-                        "nome": "Fiorentina"
+                        "nome": "Man United"
                     },
                     {
-                        "nome": "Hellas Verona"
+                        "nome": "West Ham"
                     },
                     {
-                        "nome": "Inter"
+                        "nome": "Leicester"
                     },
                     {
-                        "nome": "Juventus"
+                        "nome": "Brighton"
                     },
                     {
-                        "nome": "Lazio"
+                        "nome": "Wolves"
                     },
                     {
-                        "nome": "Lecce"
+                        "nome": "Newcastle"
                     },
                     {
-                        "nome": "Monza"
+                        "nome": "Crystal Palace"
                     },
                     {
-                        "nome": "Roma"
+                        "nome": "Brentford"
                     },
                     {
-                        "nome": "Napoli"
+                        "nome": "Aston Villa"
                     },
                     {
-                        "nome": "Salernitana"
+                        "nome": "Southampton"
                     },
                     {
-                        "nome": "Sampdoria"
+                        "nome": "Everton"
                     },
                     {
-                        "nome": "Sassuolo"
+                        "nome": "Leeds"
                     },
                     {
-                        "nome": "Spezia"
+                        "nome": "Bournemouth"
                     },
                     {
-                        "nome": "Torino"
+                        "nome": "Fulham"
                     },
                     {
-                        "nome": "Udinese"
+                        "nome": "Nottm Forest"
                     }
                 ]
             }
